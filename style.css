@@ -1,0 +1,93 @@
+h1{
+text-align: center;
+font-family: Verdana;
+font-size: 50px;
+color: white;
+font-weight: bold;
+text-decoration: none;
+}
+
+body{
+text-align: center;
+}
+.OurProcess{
+Font-family: Helvetica;
+font-size: 40px;
+font-weight: bold;
+color:black;
+text-decoration: none;
+}
+.Identify{
+Font-family: Helvetica;
+color:black;
+font-size: 23px;
+}
+p{
+font-family:Helvetica;
+font-weight: bold;
+font-size: 14px;
+text-decoration: underline;
+}
+.Understand{
+Font-family: Helvetica;
+color:black;
+font-size: 23px;
+}
+.Execute{
+Font-family: Helvetica;
+color:black;
+font-size: 23px;
+}
+.Sentence{
+  text-decoration: none;
+  font-weight: normal;
+}
+.Designed{
+  color: White;
+  font-weight: bold;
+  Font-family: Helvetica;
+  font-size: 40px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+.Portfolio{
+  Font-family: Helvetica;
+  color:black;
+  font-size: 23px;
+}
+div{
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-size: cover;
+color: white;
+font-weight: bold;
+}
+.BottomHeader{
+  Font-family: Helvetica;
+  color:black;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.secondDIV{
+  text-align: left;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-color: dimgray;
+font-family: Helvetica;
+}
+.Broadway2{
+  font-size: 11px;
+}
+.Home2{
+  text-decoration: underline;
+}
+.Process2{
+  text-decoration: underline;
+}
+.Work2{
+  text-decoration: underline;
+}
+.Team2{
+  text-decoration: underline;
+}
+.Contact2{
+  text-decoration: underline;
+}
